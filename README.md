@@ -1,0 +1,2 @@
+- data structures
+  - [custom hash function](/copypasta/hash.cpp)
